@@ -1,2 +1,0 @@
-# university
-University projects repository
